@@ -17,6 +17,7 @@ export interface Product {
   status?: string;
   othersSubcategory?: string;
   shoesSubcategory?: string;
+  menSubcategory?: string;
 }
 
 // Local storage key
